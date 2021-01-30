@@ -1,0 +1,7 @@
+C:\Users\Mourad\source\repos\WcfServiceEnseignement\WcfServiceEnseignement\bin\WcfServiceEnseignement.dll.config
+C:\Users\Mourad\source\repos\WcfServiceEnseignement\WcfServiceEnseignement\bin\WcfServiceEnseignement.dll
+C:\Users\Mourad\source\repos\WcfServiceEnseignement\WcfServiceEnseignement\bin\WcfServiceEnseignement.pdb
+C:\Users\Mourad\source\repos\WcfServiceEnseignement\WcfServiceEnseignement\obj\Debug\WcfServiceEnseignement.csprojAssemblyReference.cache
+C:\Users\Mourad\source\repos\WcfServiceEnseignement\WcfServiceEnseignement\obj\Debug\WcfServiceEnseignement.csproj.CoreCompileInputs.cache
+C:\Users\Mourad\source\repos\WcfServiceEnseignement\WcfServiceEnseignement\obj\Debug\WcfServiceEnseignement.dll
+C:\Users\Mourad\source\repos\WcfServiceEnseignement\WcfServiceEnseignement\obj\Debug\WcfServiceEnseignement.pdb
